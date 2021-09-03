@@ -3,3 +3,5 @@
 # LogCode: # https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 5 L03 Github related
 ZCZC W00 20 L06 GSGS related
+ZCZC W00 41 L29 Jekyll related
+ZCZC W00 5 L03 Github related
