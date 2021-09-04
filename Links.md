@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: "layout"
 permalink: /links.html
 title: Links
 ---
