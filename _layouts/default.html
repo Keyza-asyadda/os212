@@ -3,7 +3,10 @@
     <head>
         <meta charset="UTF-8" >
         <title>
-            {{site.title}}
+            {{site.title}} 
+            {% if page.title %}
+                {{page.title}}
+            {% endif %}
         </title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <style>
@@ -85,14 +88,19 @@
         <div class="main">
             <div class="header">
                 <div class="title">{{site.title}}</div>
-                <div class="little-desc">{{page.title}}</div>
+                <div class="little-desc">
+                    {% if page.title %}
+                        {{page.title}}
+                    {% else %}
+                        Home
+                    {% endif %}</div>
                 <nav>
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Tips</a></li>
-                        <li><a href="#">Links</a></li>
-                        <li><a href="#">Log</a></li>
-                        <li><a href="#">Github</a></li>
+                        <li><a href="{{site.url}}">Home</a></li>
+                        <li><a href="{{site.url}}/tips.html">Tips</a></li>
+                        <li><a href="{{site.url}}/links.html">Links</a></li>
+                        <li><a href="{{site.url}}/TXT/mylog.txt">Log</a></li>
+                        <li><a href="{{site.repo}}">Github</a></li>
                     </ul>
                 </nav>
             </div>
