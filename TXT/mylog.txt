@@ -10,3 +10,4 @@ ZCZC W00 120 L04 Creating Github Page
 ZCZC W00 5 L04 Revise Github page
 ZCZC W00 2 L03 Github related
 ZCZC W00 4 L04 Revise Github page
+ZCZC W01 2 L04 Change permalink
