@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /links.html
+permalink: /LINKS/
 title: Links
 ---
 
