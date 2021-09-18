@@ -12,3 +12,4 @@ ZCZC W00 2 L03 Github related
 ZCZC W00 4 L04 Revise Github page
 ZCZC W01 2 L04 Change permalink
 ZCZC W01 180 L11 Assignment #01
+ZCZC W02 10 L14 Assignment #04 
