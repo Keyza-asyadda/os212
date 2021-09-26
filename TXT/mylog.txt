@@ -18,3 +18,8 @@ ZCZC W02 2 L16 Assignment #06
 ZCZC W02 3 L17 Assignment #07
 ZCZC W02 3 L18 Assignment #08
 ZCZC W02 3 L09 Assignment in general
+ZCZC W03 80 L11 Assignment #01
+ZCZC W03 3 L06 GSGS Related
+ZCZC W03 23 L15 Assignment #05
+ZCZC W03 4 L09 Revisi My Script
+ZCZC W03 3 L14 Assignment #04
