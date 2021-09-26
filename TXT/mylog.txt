@@ -23,3 +23,6 @@ ZCZC W03 3 L06 GSGS Related
 ZCZC W03 23 L15 Assignment #05
 ZCZC W03 4 L09 Revisi My Script
 ZCZC W03 3 L14 Assignment #04
+ZCZC W03 5 L17 Assignment #07
+ZCZC W03 2 L18 Assignment #08
+ZCZC W03 2 L19 Assignment #09
