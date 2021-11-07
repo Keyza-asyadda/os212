@@ -33,3 +33,6 @@ ZCZC W04 30 L11 Assignment #01
 ZCZC W05 60 L14 Assignment #04
 ZCZC W05 15 L12 Assignment #02
 ZCZC W06 25 L14 Assignment #04
+ZCZC W07 35 L11 Assignment #01
+ZCZC W07 30 L12 Assignment #02
+ZCZC W07 35 L14 Assignment #04
